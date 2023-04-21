@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>welcome to the new page of the jenkins sample page</h2>
+<h2>welcome to all new page of the jenkins sample pages</h2>
 </body>
 </html>
